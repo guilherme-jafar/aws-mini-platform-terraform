@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="azul-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SettingPersistent">
+    <option name="settingEntity">
+      <SettingEntity>
+        <option name="channelId" value="3t86-GV3WYNzQeWrTtShg3eQ7DQQvOpejkHSNNKwyqApn9Ed1rNqcNm_wizsO21kSVxlpJUhAPmCyB0PJdGsxDW5P00kGA0mfiEw5mjPLsk31zfpwC4jSfMlQH16hriUSzWYbQl2" />
+        <option name="didAccessToken" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRhIjoicStxYm1Gd3pocUN4STZHaFhYOUZXMUN5aytiMUFFamNPT1Z4SjlGTkZubW9kQzd6ZTlvSTRrV2V1SG9wa1NSaW9pVHlMRTNKVGlTRjVoNXFmTXd3Z2U3QWZQNkQ1cGhPUG1ReUErcmVON3pYS0hmeVpXSlkzak92RldPMUN2QnB6MjBaaUNidUpFYWR6ZjN3dUs4RTJDK1ZUTnNMNWE2eUorcmFlakxaRklZZlRsQ1ZReExtcmZFM0tGc2hLbFMrMVlRYVltWnltZ1pFQi9WWm4rZFJOZnZ6RitYc1B3UHdZbnRDWVhlYmZFK1BubHBtV3pOcjVlMlhuR2FIbVkvaVpERVJXRkNKOG9TWld0ejZpOFFGZTgveTlmQ010Z2lOSEpBMnoxcGJZd2oyYUZ3cmxjN2JqcEF2WUlMdXJIMC9wZTJENHArOFNJYjZPMGxqbExoMC8yQWxxK1R0dHZvVjdFWjhkdG9TRzFGSHJJK0RPQVRpWkt1MWZDQkF4cGw4c2ZKSVY4VjZkL3NXS0FrQ2ZodE5nYnpSN29ZaFpCTytXSHE4MW5uREdGaz0iLCJleHAiOjE3NjQ2OTkxMDJ9.2M4tL0lwSCW2aQ-QRNEM4YM3OusiRgynHhW-O2Btcn0" />
+        <option name="modelType" value="Deepseek-32" />
+        <option name="uid" value="a829ccf952da20d1ec18c2fb830830aa03d13cee4037dcb8508f18d5d22a28d9" />
+      </SettingEntity>
+    </option>
+  </component>
+</project>

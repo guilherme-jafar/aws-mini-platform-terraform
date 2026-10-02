@@ -1,0 +1,1 @@
+# aws-mini-platform-terraform
