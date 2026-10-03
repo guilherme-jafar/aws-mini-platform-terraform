@@ -1,6 +1,7 @@
 locals {
   tag_name = "aws-terraform-mini"
-  source_vps_base_url = "https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws"
-  source_eks_base_url = "https://registry.terraform.io/modules/terraform-aws-modules/eks/aws"
-  vps_version = "5.19.0"
+  source_vpc_base_url = "tfr:///terraform-aws-modules/vpc/aws"
+  vpc_version = "5.19.0"
+  project_name = "aws-terraform-mini"
+  admin_principal_arn = "arn:aws:iam::034744566874:user/terraform-brain-app"
 }
